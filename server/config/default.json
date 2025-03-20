@@ -1,0 +1,7 @@
+{
+    "mongoURI": "YOUR_MONGODB_CONNECTION_STRING",
+    "jwtSecret": "YOUR_SECRET_KEY",
+    "stripeSecretKey": "YOUR_STRIPE_SECRET_KEY",
+    "emailUser": "YOUR_EMAIL_ADDRESS",
+    "emailPassword": "YOUR_EMAIL_PASSWORD"
+  }
